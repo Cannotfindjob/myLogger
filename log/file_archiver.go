@@ -3,7 +3,7 @@ package log
 import (
 	"context"
 	"fmt"
-	"myLogger/log/archiver"
+	"github.com/Cannotfindjob/myLogger/log/archiver"
 	"os"
 )
 
